@@ -52,3 +52,7 @@ Settings live in `core/config.js`.
 
 -   All scripts run as a content script at `document_start` to intercept early fingerprint reads.
 -   The project is dependency-free; edits to config take effect after reloading the extension or the tab.
+
+## License
+
+Released under the [ISC License](LICENSE).
